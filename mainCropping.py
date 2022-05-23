@@ -6,6 +6,7 @@ Dataset: https://www.kaggle.com/jessicali9530/celeba-dataset
 Haarcascade models...
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 """
+'''edited to work on my code'''
 #######################################################################
 
 # Extract faces
